@@ -1,0 +1,12 @@
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\bin\Debug\CarManagementWinForms.exe.config
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\bin\Debug\CarManagementWinForms.exe
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\bin\Debug\CarManagementWinForms.pdb
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\obj\Debug\CarManagementWinForms.csproj.AssemblyReference.cache
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\obj\Debug\CarManagementWinForms.Properties.Resources.resources
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\obj\Debug\CarManagementWinForms.csproj.GenerateResource.cache
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\obj\Debug\CarManagementWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\obj\Debug\CarManagementWinForms.exe
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\obj\Debug\CarManagementWinForms.pdb
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\obj\Debug\CarManagementWinForms.AddCarForm.resources
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\obj\Debug\CarManagementWinForms.StartCarForm.resources
+C:\Users\Hosein\source\repos\CarManagementWinForms\CarManagementWinForms\obj\Debug\CarManagementWinForms.main_menu_car.resources

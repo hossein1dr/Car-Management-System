@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|c:\\users\\hosein\\source\\repos\\carmanagementwinforms\\carmanagementwinforms\\main_menu_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|solutionrelative:carmanagementwinforms\\main_menu_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|c:\\users\\hosein\\source\\repos\\carmanagementwinforms\\carmanagementwinforms\\main_menu_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|solutionrelative:carmanagementwinforms\\main_menu_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|c:\\users\\hosein\\source\\repos\\carmanagementwinforms\\carmanagementwinforms\\startcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|solutionrelative:carmanagementwinforms\\startcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|c:\\users\\hosein\\source\\repos\\carmanagementwinforms\\carmanagementwinforms\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|solutionrelative:carmanagementwinforms\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|c:\\users\\hosein\\source\\repos\\carmanagementwinforms\\carmanagementwinforms\\startcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|solutionrelative:carmanagementwinforms\\startcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|c:\\users\\hosein\\source\\repos\\carmanagementwinforms\\carmanagementwinforms\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|solutionrelative:carmanagementwinforms\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|c:\\users\\hosein\\source\\repos\\carmanagementwinforms\\carmanagementwinforms\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759EC75F-60A0-4C27-9894-8C0CB79E900B}|CarManagementWinForms\\CarManagementWinForms.csproj|solutionrelative:carmanagementwinforms\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartCarForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\StartCarForm.cs",
+              "RelativeDocumentMoniker": "CarManagementWinForms\\StartCarForm.cs",
+              "ToolTip": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\StartCarForm.cs [Design]*",
+              "RelativeToolTip": "CarManagementWinForms\\StartCarForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:31:24.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCarForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "CarManagementWinForms\\AddCarForm.cs",
+              "ToolTip": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\AddCarForm.cs [Design]*",
+              "RelativeToolTip": "CarManagementWinForms\\AddCarForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:30:33.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\Car.cs",
+              "RelativeDocumentMoniker": "CarManagementWinForms\\Car.cs",
+              "ToolTip": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\Car.cs",
+              "RelativeToolTip": "CarManagementWinForms\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:36:44.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartCarForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\StartCarForm.cs",
+              "RelativeDocumentMoniker": "CarManagementWinForms\\StartCarForm.cs",
+              "ToolTip": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\StartCarForm.cs*",
+              "RelativeToolTip": "CarManagementWinForms\\StartCarForm.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:17:48.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main_menu_car.cs",
+              "DocumentMoniker": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\main_menu_car.cs",
+              "RelativeDocumentMoniker": "CarManagementWinForms\\main_menu_car.cs",
+              "ToolTip": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\main_menu_car.cs*",
+              "RelativeToolTip": "CarManagementWinForms\\main_menu_car.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:56:44.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_menu_car.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\main_menu_car.cs",
+              "RelativeDocumentMoniker": "CarManagementWinForms\\main_menu_car.cs",
+              "ToolTip": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\main_menu_car.cs [Design]*",
+              "RelativeToolTip": "CarManagementWinForms\\main_menu_car.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:36:58.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCarForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "CarManagementWinForms\\AddCarForm.cs",
+              "ToolTip": "C:\\Users\\Hosein\\source\\repos\\CarManagementWinForms\\CarManagementWinForms\\AddCarForm.cs*",
+              "RelativeToolTip": "CarManagementWinForms\\AddCarForm.cs*",
+              "ViewState": "AgIAAJgAAAAAAAAAAADwv7EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:41:44.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
