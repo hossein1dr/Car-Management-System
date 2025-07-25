@@ -55,7 +55,9 @@ The system supports bilingual user interface (English and Persian) and changes U
 - **دات نت فریم ورک**
 
 ---
+## 👤 Developer
 
-## License
+Created by **Hosein**  
+GitHub: [hossein1dr](https://github.com/hossein1dr)
 
-This project is open source and free to use.
+
